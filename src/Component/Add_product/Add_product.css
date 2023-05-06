@@ -1,0 +1,47 @@
+.text_oringe{
+    color: orangered !important;
+    font-weight: 700;
+    color: #ef7026;
+    font-size: 16px !important;
+}
+.gray_color{
+    background-color: #e7f0f4ec !important;
+}
+.border_ha{
+  
+    border-radius: 18px !important;
+}
+.Translate{
+    background-color: white !important;
+    color: #ef7026 !important;
+    border:1px solid #ef7026;
+    font-size: 14px !important;
+    height: 38px !important;
+    border-radius: 5px !important;
+}
+.Translate:hover{
+    background-color: #ef7026!important;
+   color: white !important;
+   transition: 1s;
+}
+.input_flll{
+    width: 85%;
+}
+.orrr_text{
+    color: #ef7026;
+    font-size: 14px !important;
+    width: 86px;
+}
+.ananan{
+    height: 30px !important;
+}
+.hasd{
+    width:70%;
+    gap: 25px;
+}
+@media only screen and (max-width:600px){
+    .hasd{
+        width:100%;
+        gap: 2px;
+    }
+}

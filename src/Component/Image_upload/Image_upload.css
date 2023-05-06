@@ -1,0 +1,10 @@
+.control_icon{
+    /* width: 12%; */
+    border: 3px dotted rgb(94, 152, 224);
+    border-radius: 4px !important;
+    cursor: pointer !important;
+}
+.size_icon{
+    font-weight: 400 !important;
+    color: rgb(110, 109, 109);
+}

@@ -1,0 +1,16 @@
+/* .aasaas{
+    width: 10% !important;
+    overflow-x: scroll !important;
+} */
+.table_img{
+    font-weight: 400 !important;
+    font-size: 12px !important;
+    
+}
+
+@media only screen and (max-width:600px)
+{
+    .ha_responsiv{
+        overflow: scroll !important;
+    }    
+}

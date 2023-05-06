@@ -1,0 +1,23 @@
+.grid_cloms{
+    display: grid !important;
+    grid-template-columns:  1fr 1fr 1fr 1fr 1fr ;
+    gap: 10px !important;
+}
+.grid_cloms2{
+    display: grid !important;
+    grid-template-columns:  1fr 1fr 1fr 1fr ;
+    gap: 10px !important;
+}
+@media only screen and (max-width: 768px){
+    .grid_cloms{
+        display: grid !important;
+        grid-template-columns:  1fr  ;
+        gap: 5px !important;
+        width: 100% !important;
+    }
+    .grid_cloms2{
+        display: grid !important;
+        grid-template-columns:  1fr ;
+        gap: 10px !important;
+    }
+}

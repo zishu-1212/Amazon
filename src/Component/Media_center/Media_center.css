@@ -1,0 +1,19 @@
+.border_primary{
+    border: 1px solid rgb(74, 74, 255);
+    color:  rgb(74, 74, 255);
+}
+.border_primary:hover{
+    border: 1px solid rgb(115, 115, 252);
+    color:  rgb(255, 255, 255);
+    background-color:rgba(77, 124, 255, 0.856) ;
+}
+
+.hover_post:hover{
+    background-color: rgba(157, 157, 157, 0.435) !important;
+cursor: pointer !important;
+}
+
+.hover_post{
+    width: max-content !important;
+    transition: 1s !important;
+}

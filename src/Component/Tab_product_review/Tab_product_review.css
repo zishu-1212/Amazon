@@ -1,0 +1,44 @@
+.kkkk .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+    height: 2px !important ;
+    color: rgb(143, 143, 143) !important;
+}
+.field{
+    height: 33px !important;
+    width: 100% !important;
+}
+.field:hover{
+border: 1px solid black !important;
+border-radius: 5px !important;
+}
+.w_starting{
+    width: 174px !important;
+}
+@media only screen and (max-width: 768px) {
+    .w_starting{
+        width: 100% !important;
+    } 
+    .table_lg{
+        width: 110% !important;
+        overflow-x: scroll !important;
+    }
+    
+}
+.table_lg{
+    width: 100% !important;
+    
+}
+
+.back_color_data{
+    margin-top: 20px !important;
+    background-color: #f6f8fa !important;
+   /* height: 4pc !important; */
+  font-size: 14px !important;
+}
+tbody, td, tfoot, th, thead, tr {
+    border-color: inherit;
+    border-style: none;
+    border-width: 0;
+    align-items: center !important;
+    padding-top: 17px !important;
+    padding-bottom: 17px !important;
+}

@@ -1,0 +1,47 @@
+ p{
+   
+    margin-bottom: 0rem !important;
+}
+
+.text_size{
+    font-size: 13px !important;
+ 
+}
+.product_title{
+    font-size: 14px !important;
+    color: rgb(99, 99, 99) !important;
+    cursor: pointer !important;
+}
+
+.product_title:focus{
+    
+    border-color: #ffffff !important;
+    
+    box-shadow: 0 0 0 0.25rem #ffffff !important;
+
+}
+.product_title:hover{
+    color: rgb(242, 91, 36) !important;
+}
+.product_hover:hover{
+background-color: aliceblue !important;
+color: rgb(242, 91, 36) !important;
+cursor: pointer !important;
+}
+.accordion-button::after {
+   
+    background-size: 14px;
+   
+}
+.css-1o14l8-MuiDrawer-docked .MuiDrawer-paper{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.accordion-item {
+    background-color: #fff;
+    border: none !important;
+
+}
+.center{
+    text-align: left !important;
+    padding-left: 20px !important;
+}
